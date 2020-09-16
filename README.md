@@ -1,3 +1,3 @@
 # octopus
 
-Practice of octopus
+Practice of octopus from powershell
