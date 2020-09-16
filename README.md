@@ -1,3 +1,3 @@
 # octopus
 
-Practice of
+Practice of octopus
